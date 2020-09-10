@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently doing amazing things
 - 👯 I’m looking to collaborate with (hey I will not tell it to you) 😁
 - 💬 Please Ask me about nothing
-- 📫 You Connect me on LinkedIn
+- 📫 You can Connect me on LinkedIn
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
