@@ -12,4 +12,4 @@ Here are some ideas to get you started:-->
 - 📫 You Connect me on LinkedIn
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=15105">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
