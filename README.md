@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 
 <a href="https://github.com/Abhishek6387724595/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&include_all_commits=true&theme=radical" >
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6387724595&hide=TeX&layout=compact">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6387724595&hide=TeX&layout=compact&theme=radical" />
 </a>
 
 ###  📫 How to reach me:
