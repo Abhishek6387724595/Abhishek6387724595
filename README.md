@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 📫 You can Connect me on LinkedIn
 
 <a href="https://github.com/Abhishek6387724595/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&include_all_commits=true&theme=radical" >
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6387724595&hide=TeX&layout=compact">
 </a>
 
