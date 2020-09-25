@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![HitCount](http://hits.dwyl.com/Abhishek6387724595/Abhishek6387724595.svg)](http://hits.dwyl.com/Abhishek6387724595/Abhishek6387724595)
+![Profile Count](https://komarev.com/ghpvc/?username=Abhishek6387724595 )
 <!--**Abhishek6387724595/Abhishek6387724595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
