@@ -17,5 +17,5 @@ Here are some ideas to get you started:-->
 ###  📫 How to reach me:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avasthiabhishek08@gmail.com)](mailto:avasthiabhishek08@gmail.com)
-
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekAwasthi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/abhishek-awasthi-1ba51b191/)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/avasthiabhishek/)
