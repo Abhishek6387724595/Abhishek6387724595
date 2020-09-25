@@ -11,6 +11,9 @@ Here are some ideas to get you started:-->
 - 💬 Please Ask me about nothing
 - 📫 You can Connect me on LinkedIn
 
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Abhishek6387724595/github-readme-stats)*
+
 <a href="https://github.com/Abhishek6387724595/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&include_all_commits=true&theme=radical" >
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6387724595&hide=TeX&layout=compact&theme=radical" />
