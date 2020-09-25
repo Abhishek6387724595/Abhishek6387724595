@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![Profile Count](https://komarev.com/ghpvc/?username=Abhishek6387724595 )
 <!--**Abhishek6387724595/Abhishek6387724595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:-->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek6387724595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6387724595&hide=TeX&layout=compact)
 
 ###  📫 How to reach me:
 
