@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![Profile Count](https://komarev.com/ghpvc/?username=Abhishek6387724595 )
 <!--**Abhishek6387724595/Abhishek6387724595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
